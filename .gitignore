@@ -35,6 +35,9 @@ MANIFEST
 *.manifest
 *.spec
 
+#bonner Api key 
+config.py
+
 # Installer logs
 pip-log.txt
 pip-delete-this-directory.txt
