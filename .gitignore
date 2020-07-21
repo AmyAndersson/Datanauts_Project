@@ -5,11 +5,16 @@ __pycache__/
 
 # C extensions
 *.so
+<<<<<<< HEAD
 #API keys 
 api_keys.py
 
 #bonner api key ignore 
 config.py
+=======
+#Api_keys
+api_keys.py
+>>>>>>> 374a7b42979e2c80624efcb505e03364729660b3
 
 # Distribution / packaging
 .Python
